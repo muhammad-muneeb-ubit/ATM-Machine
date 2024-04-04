@@ -1,0 +1,15 @@
+{
+  "name": "ramdanlivecoding_02",
+  "version": "1.0.0",
+  "description": "ATM Machine.",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ATM Machine"
+  ],
+  "author": "Muhammad Muneeb",
+  "license": "ISC"
+}
